@@ -20,3 +20,8 @@
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | Markdown Language 👪  | [syntax](https://github.com/ms624atyale/NLP_2024/blob/main/0_MarkDown4README_md.ipynb)|
+>
+| # | sessions | keywords |
+|:--:|:--:|:--:|
+| 1 |markdown language  |[ syntax ](https://www.markdownguide.org/basic-syntax/) |
+|2|generating code cell|codelines, run(execute) |
